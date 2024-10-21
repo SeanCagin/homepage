@@ -225,7 +225,7 @@ footer > *:not(h2) {
 
 footer img {
   max-width: 400px;
-  height: fit-content;
+  max-height: fit-content;
   box-shadow: 0 0 15px black;
 }
 
